@@ -61,7 +61,7 @@ The appliation is runing on `http://localhost:3000`. You should be able to acces
 
 ## Deploy on Heroku
 
-1. Create the application in the Heroku admin console
+1. Create the application via the command line: `heroku create`
 2. If not already done, provide Credit Card infos
 3. Type the command in the directory app on your machine `heroku addons:add mongolab`
 4. Visit again your Heroku admin console to view the app details. You will find a link to see the admin console of the addon.
